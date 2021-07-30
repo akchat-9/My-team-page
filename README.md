@@ -10,11 +10,11 @@ devchallenge 2
 
 <div align="center">
   <h3>
-    <a href="https://not-found-aa4ca.web.app/">
+    <a href="https://my-team-page-2ac8c.web.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/akchat457/404-Not-found-">
+    <a href="https://github.com/akchat457/My-team-page">
       Solution
     </a>
     <span> | </span>
@@ -38,12 +38,13 @@ devchallenge 2
 
 ## Overview
 
-![screenshot](https://github.com/akchat457/404-Not-found-/blob/main/Screenshot%20(74).png?raw=true)
+![screenshot](https://github.com/akchat457/My-team-page/blob/main/Capture.PNG)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- You can see my demo <a href="https://not-found-aa4ca.web.app/">here</a>
+- You can see my demo <a href="https://my-team-page-2ac8c.web.app/">here</a>
 - Fun completing this challenge
+- It's my second project and I am happy that I am not sitting idle  
 - Improved my skills
 - Start slow :)
 
